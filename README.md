@@ -9,7 +9,7 @@ Blockchain Developer
 I've been working in Blockchain development since 2021 and I have experience in Both public as well private Blockchains. My current recent projects involves ERC20 ,ERC721, ERC1155 implementation apart from that I've worked on NFT martketplaces and plenty of its used cases. Currently I'm working as full time part-time and Freelancer employee for different clients.
 
 * 🌍  I'm based in Noida, India
-* ✉️  You can contact me at [kumarpintoo417@gmail.com](mailto:kumarpintoo417@gmail.com)
+* ✉️  You can contact me at [pintookumar@inclusivegrowthchain.com](mailto:pintookumar@inclusivegrowthchain.com)
 * 🧠  I'm learning web3 integration
 * 🤝  I'm open to collaborating on Token, wallet and NFTs
 
